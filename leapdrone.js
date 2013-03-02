@@ -55,6 +55,7 @@ Leap.loop( function(frame, done) {
 			drone.up(speed);
 		}else{
 			console.log('steady ' + y);
+			drone.up(0);
 		}
 		
 		if(pNx>0.3){
