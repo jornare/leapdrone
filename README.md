@@ -40,6 +40,8 @@ Tilt hand forwards/backwards to fly forwards/backwards
 
 Move hand to the left/right to turn left/right
 
+Move hand up/down to fly higher/lower
+
 Klick a key on the keyboard or move the hand low to land
 
 Have fun!! :D
