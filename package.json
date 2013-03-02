@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Jørn Are Hatlelid"}
+ 
+  "name": "leapdrone",
+  "version": "1.0.0",
+  "description": "Control an AR.Drone2 using LeapMotion controller",
+  "dependencies": {
+    "leapjs": "0.1.1",
+    "ar-drone": "0.0.5"
+  }
+}

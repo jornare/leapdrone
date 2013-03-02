@@ -13,12 +13,15 @@ To get started
 
 Install nodejs and npm (node package manager)
 
-Clone the repo
+//Clone the repo:
+>git clone https://github.com/jornare/leapdrone
 
->npm install leapjs
+>cd leapdrone
 
->npm install ar-drone
+//Install dependencies
+>npm install
 
+//Run it!
 >node leapdrone.js
 
 When you start
