@@ -13,15 +13,15 @@ To get started
 
 Install nodejs and npm (node package manager)
 
-//Clone the repo:
+Clone the repo:
 >git clone https://github.com/jornare/leapdrone
 
 >cd leapdrone
 
-//Install dependencies
+Install dependencies
 >npm install
 
-//Run it!
+Run it!
 >node leapdrone.js
 
 When you start
